@@ -1,0 +1,144 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+             x:Class="StellarMVVM_2024.Views.budget_recommendation_screen">
+	<UserControl.Styles>
+		<StyleInclude Source="/Styles/budget_recommendation_stylesheet.axaml"/>
+	</UserControl.Styles>
+	<Panel Background="Pink">
+		<StackPanel
+		Name="budgetRecommendationStackPanel"
+		HorizontalAlignment="Center"
+		Margin="15,20">
+			<TextBlock
+				Classes="title">
+				new budget breakdown
+			</TextBlock>
+			<TextBlock
+				FontWeight="SemiBold"
+				FontSize="20"
+				Margin="25 5"
+				Foreground="Snow"
+				Name="assets">
+				assets: $0
+			</TextBlock>
+			<TextBlock
+				FontWeight="SemiBold"
+				FontSize="20"
+				Margin="25 0"
+				Foreground="Snow"
+				Name="income">
+				income: $0
+			</TextBlock>
+			<Separator
+				Classes="divider"
+				Margin="0,15">
+			</Separator>
+			<StackPanel
+				Orientation="Horizontal"
+				Margin="125,-25">
+				<Grid
+					RowDefinitions="30, 30, 30, 30, 30, 30, 30"
+					ColumnDefinitions="130, 70"
+					Margin="-100 30">
+					<TextBlock
+						Grid.Row="0"
+						Grid.Column="0"
+						Classes="recommendedBudgetText">
+						taxes/mortgage
+					</TextBlock>
+					<TextBlock
+						Grid.Row="0"
+						Grid.Column="1"
+						Classes="recommendedBudgetText"
+						Name="recommendedTaxBudget">
+						$0
+					</TextBlock>
+					<TextBlock
+						Grid.Row="1"
+						Grid.Column="0"
+						Classes="recommendedBudgetText">
+						utilities
+					</TextBlock>
+					<TextBlock
+						Grid.Row="1"
+						Grid.Column="1"
+						Classes="recommendedBudgetText"
+						Name="recommendedUtilities">
+						$0
+					</TextBlock>
+					<TextBlock
+						Grid.Row="2"
+						Grid.Column="0"
+						Classes="recommendedBudgetText">
+						insurance(s)
+					</TextBlock>
+					<TextBlock
+						Grid.Row="2"
+						Grid.Column="1"
+						Classes="recommendedBudgetText"
+						Name="recommendedInsurance">
+						$0
+					</TextBlock>
+					<TextBlock
+						Grid.Row="3"
+						Grid.Column="0"
+						Classes="recommendedBudgetText">
+						transportation
+					</TextBlock>
+					<TextBlock
+						Grid.Row="3"
+						Grid.Column="1"
+						Classes="recommendedBudgetText"
+						Name="recommendedTransportation">
+						$0
+					</TextBlock>
+					<TextBlock
+						Grid.Row="4"
+						Grid.Column="0"
+						Classes="recommendedBudgetText">
+						food/groceries
+					</TextBlock>
+					<TextBlock
+						Grid.Row="4"
+						Grid.Column="1"
+						Classes="recommendedBudgetText"
+						Name="recommendedFoodGroceries">
+						$0
+					</TextBlock>
+					<TextBlock
+						Grid.Row="5"
+						Grid.Column="0"
+						Classes="recommendedBudgetText">
+						other/savings
+					</TextBlock>
+					<TextBlock
+						Grid.Row="5"
+						Grid.Column="1"
+						Classes="recommendedBudgetText"
+						Name="recommendedOtherSpending">
+						$0
+					</TextBlock>
+				</Grid>
+			</StackPanel>
+
+			<Separator
+				Classes="divider">
+			</Separator>
+
+			<TextBlock
+				Classes="recommendationText"
+				HorizontalAlignment="Center"
+				Name="budgetRecommendation">
+				no recommendation!
+			</TextBlock>
+			<Image
+					Source="/Assets/chart.png"
+					Width="400"
+					Height="200"
+					Margin="0 -350 -290 -40"/>
+		</StackPanel>
+	</Panel>
+</UserControl>
