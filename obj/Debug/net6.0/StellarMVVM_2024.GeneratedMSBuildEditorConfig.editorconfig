@@ -78,6 +78,9 @@ build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 [C:/Users/Tricide/Coding Projects/Stellar2023/Styles/home_screen_stylesheet.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
+[C:/Users/Tricide/Coding Projects/Stellar2023/Styles/new_budget_screen_stylesheet.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
 [C:/Users/Tricide/Coding Projects/Stellar2023/Views/home_screen.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
@@ -136,4 +139,7 @@ build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
 [C:/Users/Tricide/Coding Projects/Stellar2023/Views/navigation views/calculator option screens/simple_interest_calculator_screen.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Tricide/Coding Projects/Stellar2023/Views/navigation views/new_budget_screen.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
