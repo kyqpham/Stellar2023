@@ -18,7 +18,31 @@ build_property.ProjectDir = C:\Users\Tricide\Coding Projects\Stellar2023\
 [C:/Users/Tricide/Coding Projects/Stellar2023/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[C:/Users/Tricide/Coding Projects/Stellar2023/Styles/appreciation_calculator_stylesheet.axaml]
+[C:/Users/Tricide/Coding Projects/Stellar2023/Styles/archive info styles/debt_vs_credit_archive_stylesheet.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Tricide/Coding Projects/Stellar2023/Styles/archive info styles/finance_accounts_archive_stylesheet.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Tricide/Coding Projects/Stellar2023/Styles/archive info styles/finance_institution_archive_stylesheet.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Tricide/Coding Projects/Stellar2023/Styles/archive info styles/income_archive_stylesheet.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Tricide/Coding Projects/Stellar2023/Styles/archive info styles/inflation_archive_stylesheet.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Tricide/Coding Projects/Stellar2023/Styles/archive info styles/interest_rates_archive_stylesheet.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Tricide/Coding Projects/Stellar2023/Styles/archive info styles/making_decisions_archive_stylesheet.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Tricide/Coding Projects/Stellar2023/Styles/archive info styles/setting_goals_archive_stylesheet.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Tricide/Coding Projects/Stellar2023/Styles/archive info styles/taxes_archive_stylesheet.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
 [C:/Users/Tricide/Coding Projects/Stellar2023/Styles/archive_screen_stylesheet.axaml]
@@ -30,52 +54,28 @@ build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 [C:/Users/Tricide/Coding Projects/Stellar2023/Styles/budget_screen_stylesheet.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[C:/Users/Tricide/Coding Projects/Stellar2023/Styles/compound_interest_calculator_stylesheet.axaml]
+[C:/Users/Tricide/Coding Projects/Stellar2023/Styles/finance option styles/appreciation_calculator_stylesheet.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[C:/Users/Tricide/Coding Projects/Stellar2023/Styles/debt_vs_credit_archive_stylesheet.axaml]
+[C:/Users/Tricide/Coding Projects/Stellar2023/Styles/finance option styles/compound_interest_calculator_stylesheet.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[C:/Users/Tricide/Coding Projects/Stellar2023/Styles/deflation_calculator_stylesheet.axaml]
+[C:/Users/Tricide/Coding Projects/Stellar2023/Styles/finance option styles/deflation_calculator_stylesheet.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[C:/Users/Tricide/Coding Projects/Stellar2023/Styles/depreciation_calculator_stylesheet.axaml]
+[C:/Users/Tricide/Coding Projects/Stellar2023/Styles/finance option styles/depreciation_calculator_stylesheet.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[C:/Users/Tricide/Coding Projects/Stellar2023/Styles/finance_accounts_archive_stylesheet.axaml]
+[C:/Users/Tricide/Coding Projects/Stellar2023/Styles/finance option styles/inflation_calculator_stylesheet.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[C:/Users/Tricide/Coding Projects/Stellar2023/Styles/finance_institution_archive_stylesheet.axaml]
+[C:/Users/Tricide/Coding Projects/Stellar2023/Styles/finance option styles/simple_interest_calculator_stylesheet.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
 [C:/Users/Tricide/Coding Projects/Stellar2023/Styles/financial_calculators_screen_stylesheet.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
 [C:/Users/Tricide/Coding Projects/Stellar2023/Styles/home_screen_stylesheet.axaml]
-build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
-
-[C:/Users/Tricide/Coding Projects/Stellar2023/Styles/income_archive_stylesheet.axaml]
-build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
-
-[C:/Users/Tricide/Coding Projects/Stellar2023/Styles/inflation_archive_stylesheet.axaml]
-build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
-
-[C:/Users/Tricide/Coding Projects/Stellar2023/Styles/inflation_calculator_stylesheet.axaml]
-build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
-
-[C:/Users/Tricide/Coding Projects/Stellar2023/Styles/interest_rates_archive_stylesheet.axaml]
-build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
-
-[C:/Users/Tricide/Coding Projects/Stellar2023/Styles/making_decisions_archive_stylesheet.axaml]
-build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
-
-[C:/Users/Tricide/Coding Projects/Stellar2023/Styles/setting_goals_archive_stylesheet.axaml]
-build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
-
-[C:/Users/Tricide/Coding Projects/Stellar2023/Styles/simple_interest_calculator_stylesheet.axaml]
-build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
-
-[C:/Users/Tricide/Coding Projects/Stellar2023/Styles/taxes_archive_stylesheet.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
 [C:/Users/Tricide/Coding Projects/Stellar2023/Views/home_screen.axaml]
