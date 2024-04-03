@@ -5,6 +5,6 @@
              mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
              x:Class="StellarMVVM_2024.Views.new_budget_screen.axaml">
 	<UserControl.Styles>
-		<StyleInclude Source="/Styles/archive_screen_stylesheet.axaml"/>
+		<StyleInclude Source="/Styles/new_budget_screen_stylesheet.axaml"/>
 	</UserControl.Styles>
 </UserControl>
