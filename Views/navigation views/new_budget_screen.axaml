@@ -7,4 +7,55 @@
 	<UserControl.Styles>
 		<StyleInclude Source="/Styles/new_budget_screen_stylesheet.axaml"/>
 	</UserControl.Styles>
+	<Panel Background="Pink" IsVisible="True" Name="new_budget">
+		<StackPanel
+			Margin="15,20"
+			Name="newBudgetStackPanel"
+			HorizontalAlignment="Center">
+			<TextBlock
+				Classes ="title"
+				PointerReleased="returnHome">
+				Spending/Income Input
+			</TextBlock>
+		</StackPanel>
+		<Separator
+			Margin="0,2,0,0"
+			Width="5050"
+			Background="Snow"
+			Height="1">
+		</Separator>
+		<StackPanel
+			Margin="15,20"
+			Name="newBudgetInputStackPanel"
+			HorizontalAlignment="Left">
+			<TextBlock
+				Classes="body"
+				TextDecorations="Underline">
+				Income/Spending Information:
+			</TextBlock>
+			<Grid
+				Margin="-185,40,10,30"
+				ColumnDefinitions="150,80"
+				RowDefinitions="40,40,40">
+				<TextBox
+					Grid.Row="0"
+					Grid.Column="0"
+					Classes="newBudgetUserPrompt">
+					Time and Date
+				</TextBox>
+				<TextBox
+					Grid.Row="0"
+					Grid.Column="1"
+					Name="incomeSpendingInput"
+					Classes="newBudgetUserInput">					
+				</TextBox>
+				<TextBlock
+					Grid.Row="1"
+					Grid.Column="0"
+					Classes="newBudgetUserPrompt">
+					Spending
+				</TextBlock>
+			</Grid>
+		</StackPanel>
+	</Panel>
 </UserControl>
