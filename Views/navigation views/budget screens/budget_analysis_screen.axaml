@@ -3,6 +3,5 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
-             x:Class="StellarMVVM_2024.UserControl1">
-  Welcome to Avalonia!
+             x:Class="StellarMVVM_2024.budget_analysis_screen">
 </UserControl>

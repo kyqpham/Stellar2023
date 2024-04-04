@@ -4,9 +4,9 @@ using Avalonia.Markup.Xaml;
 
 namespace StellarMVVM_2024;
 
-public partial class UserControl1 : UserControl
+public partial class budget_analysis_screen : UserControl
 {
-    public UserControl1()
+    public budget_analysis_screen()
     {
         InitializeComponent();
     }
