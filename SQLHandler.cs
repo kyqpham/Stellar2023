@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace StellarMVVM_2024
 {
-    internal class Class1
+    internal class SQLHandler
     {
+        public SQLHandler() {
+            
+        }
     }
 }
